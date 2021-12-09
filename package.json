@@ -19,5 +19,8 @@
   "homepage": "https://github.com/rclank/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
